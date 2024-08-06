@@ -50,10 +50,8 @@ The RAG-Application is designed to simplify the process of interacting with PDF 
     ```sh
     ./run.sh
 
-
-
 ## Project Structure
-```sh
+    ```sh
     RAG-Application/
     ├── app.py                   
     ├── rag.py                  
