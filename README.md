@@ -50,17 +50,21 @@ The RAG-Application is designed to simplify the process of interacting with PDF 
     ```sh
     ./run.sh
 
+
+
 ## Project Structure
-```sh
-RAG-Application/
-├── app.py                   # Main Streamlit app
-├── rag.py                   # RAG implementation
-├── requirements.txt         # Python dependencies
-├── run.sh                   # Script to run the app
-├── README.md                # Project documentation
-└── .env.example             # Example environment variables file
+    ```sh
+    RAG-Application/
+    ├── app.py                   
+    ├── rag.py                  
+    ├── requirements.txt        
+    ├── run.sh                  
+    ├── README.md                
+    └── .env.example             
 
 ## Acknowledgements
 * Langchain for providing the foundational tools
 * Streamlit for the easy-to-use web application framework
 * The open-source community for continuous support and contributions
+
+
